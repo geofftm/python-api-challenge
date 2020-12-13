@@ -1,2 +1,2 @@
-api_key = "23456"
-gkey = "hello hello"
+api_key = "test 2"
+gkey = "test 3"
